@@ -1,0 +1,4 @@
+This is a command line program that searches the NHTSA Technical Service Bulletin Flat files found on the NHTSA web site.
+Download the latest and greatest flat file and put it in the same directory as this program.
+
+The program lets you search using two of the three search criteria or all three search criteria.  
